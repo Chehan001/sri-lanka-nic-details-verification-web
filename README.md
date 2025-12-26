@@ -1,4 +1,5 @@
 Sri Lanka NIC Details Checker 🇱🇰
+
 📌 Project Description
     The Sri Lanka NIC Details Checker is a simple application that analyzes a Sri Lankan National Identity Card (NIC) number and extracts personal information such as:
                   📅 Date of Birth
